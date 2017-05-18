@@ -1,0 +1,7 @@
+name: FightClub2.0
+version: 3.0-BETA
+main: com.isnakebuzz.plugins.Main
+author: Felipe Fonseca And Modify by iSnakeBuzz_(MartinGamer_Es)
+commands:
+    game:
+        description: Main Command
